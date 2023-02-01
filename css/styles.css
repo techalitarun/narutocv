@@ -1,0 +1,33 @@
+body {
+    background-color:#f9ecdc;
+}
+img {
+    background-color: rgb(248, 203, 119);
+    width: 200px;
+}
+img:hover {
+    background-color: orangered;
+}
+hr {
+    
+    border-style: dotted none none;
+    border-color: #f6a33e;
+    border-width: 5px;
+    width: 8%;
+}
+
+
+.Headings {
+    color: rgb(96, 39, 31);
+    
+}
+
+.Headings:hover {
+    color: orangered;
+    text-decoration: underline 1.5px;
+}
+
+.Centralize {
+   
+  
+}
